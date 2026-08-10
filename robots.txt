@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chestnoe-kazino-kriptovalyut.github.io
+Sitemap: https://chestnoe-kazino-kriptovalyut.github.io/sitemap.xml
